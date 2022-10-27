@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mileye22
-- 👀 I’m interested in data science and it's application
+- 👀 I’m interested in learning data science and it's application to real world problems
 - 🌱 I’m actively learning pyhthon, python for data science, data analysis with SQL & powerBI, ML,AI.
-- 💞️ I’m looking to collaborate on understanding how data works.
+- 💞️ I’m looking to collaborate with like minds to gain a good understanding of how data science, ML could be applied.
 - 📫 How to reach me wa.me/2348124124297
 
 <!---
