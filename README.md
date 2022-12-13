@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning data science and it's application to real world problems
 - 🌱 I’m actively learning python, python for data science, data analysis with SQL & powerBI, ML.
 - 💞️ I’m looking to collaborate with like minds to gain a good understanding of how data science, ML could be applied.
-- 📫 How to reach me through whatsapp via wa.me/2348124124297 oe email me emileye22@gmail.com
+- 📫 How to reach me through whatsapp via wa.me/2348124124297 or email me emileye22@gmail.com
 - <details>
 <summary> My top Languages </summary>
 
